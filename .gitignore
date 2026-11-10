@@ -29,6 +29,9 @@ pnpm-debug.log*
 *.pid
 *.pid.lock
 
+# Course transcripts are intentional source material
+!part-*/codex-logs/*.log
+
 # Editors and IDEs
 .idea/
 .vscode/
